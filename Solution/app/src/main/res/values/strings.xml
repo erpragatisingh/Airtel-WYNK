@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Sample</string>
+    <string name="error_mgs">press next or previous image</string>
+</resources>
